@@ -29,13 +29,19 @@
        <li>Primaire:Ep Msr Kimbondo</li>
        <li>Humanitaire:Collège Pièrre Bouvet</li>
        <li>Universitaire:Université De Kinshasa</li>  
-</ol>
-<h2>Langues parlées</h2>
-       Français, Anglais, Lingala   
+   </ol>
+   <ul>
+   <h2>Langues parlées</h2>
+        <li>français</li>
+        <li>anglais</li>
+        <li>lingala</li>
+
+  
+     
 
   
     </p>     
-</p>     
+    
 
 </body>
 </html>
